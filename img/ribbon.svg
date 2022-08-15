@@ -1,0 +1,18 @@
+<svg width="123" height="125" viewBox="0 0 123 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_401_62)">
+<path d="M58.1209 0H0L123 125V67.4157L58.1209 0Z" fill="#47BD61"/>
+</g>
+<text transform="translate(52.6836 8) rotate(45.4746)" fill="white" xml:space="preserve" style="white-space: pre" font-family="sans-serif" font-size="18" font-weight="bold" letter-spacing="0.02em"><tspan x="0" y="17.453">&#x432;&#x44b;&#x433;&#x43e;&#x434;&#x43d;&#x43e;</tspan></text>
+<defs>
+<filter id="filter0_d_401_62" x="-16" y="-12" width="155" height="157" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="8"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.11 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_401_62"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_401_62" result="shape"/>
+</filter>
+</defs>
+</svg>
